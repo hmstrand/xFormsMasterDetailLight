@@ -9,6 +9,7 @@ namespace xformsmasterdetaillight.core.core.framework.services
 {
     public class NavigationService : INavigationService
     {
+        //Test
         private Dictionary<string, Type> _pages { get; set; }
 
         string _currentPageKey;
