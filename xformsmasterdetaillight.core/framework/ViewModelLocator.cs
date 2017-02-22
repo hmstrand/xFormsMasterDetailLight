@@ -10,6 +10,7 @@ namespace xformsmasterdetaillight.core.core.framework
 {
     public class ViewModelLocator
     {
+        //Test
         public const string Page1Key = "Page1";
         public const string Page2Key = "Page2";
         public const string Page3Key = "Page3";
